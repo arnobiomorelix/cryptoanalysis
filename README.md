@@ -1,5 +1,5 @@
-# w209-cryptoanalysis
-Repository for W209 Final Project: Analysis of Cryptocurrencies
+# cryptoanalysis
+Repository Analysis of Cryptocurrencies
 
 - Arnobio Morelix
 - Felipe Campos
