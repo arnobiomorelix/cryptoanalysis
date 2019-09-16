@@ -7,6 +7,8 @@ Repository Analysis of Cryptocurrencies
 
 Demo hosted at https://w209crypto.herokuapp.com/
 
+Presentation explaining the work: https://github.com/arnobiomorelix/cryptoanalysis/blob/master/Presentation%2C%20Crypto%20Booms%20and%20Busts%20--%20Shared.pdf
+
 ## Tools
 - Python Data Stack (Pandas, numpy, etc.)
 
